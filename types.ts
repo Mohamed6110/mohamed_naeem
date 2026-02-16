@@ -6,6 +6,7 @@ export interface Project {
   metrics?: string;
   liveLink?: string;
   githubLink?: string;
+  image?: string;
 }
 
 export interface Internship {
