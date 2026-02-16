@@ -36,7 +36,7 @@ export const portfolioData: PortfolioData = {
       description: "A comprehensive deep learning solution for early-stage oncology screening. Trained on ISIC datasets and optimized for mobile deployment to assist clinical preliminary reviews.",
       metrics: "93% F1-Score",
       tools: ["TensorFlow", "Keras", "Python", "OpenCV"],
-      image: "/mohammed_naeem/images/skin cancer.jpg",
+      image: "/images/skin cancer.jpg",
       githubLink: "https://github.com/mohammed-naeem/skin-cancer-detection",
       liveLink: "#"
     },
