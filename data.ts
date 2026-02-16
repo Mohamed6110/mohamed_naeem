@@ -45,7 +45,7 @@ export const portfolioData: PortfolioData = {
       description: "Safety compliance system utilizing computer vision to detect mask-wearing in public spaces. Features a low-latency pipeline capable of processing 30+ FPS on edge devices.",
       metrics: "96% Accuracy",
       tools: ["OpenCV", "MobileNetV2", "PyTorch"],
-      image: "/mohammed_naeem/images/mage-of-face-mask-detected.jpg",
+      image: "/images/mage-of-face-mask-detected.jpg",
       githubLink: "https://github.com/mohammed-naeem/face-mask-detection"
     },
     {
@@ -53,7 +53,7 @@ export const portfolioData: PortfolioData = {
       description: "Predictive analytics dashboard that identifies high-risk customers for an Orange telecom subsidiary using ensemble learning techniques and feature engineering.",
       metrics: "95% Recall",
       tools: ["Scikit-learn", "Pandas", "Random Forest", "Plotly"],
-      image: "/mohammed_naeem/images/churn.png",
+      image: "/images/churn.png",
       githubLink: "https://github.com/mohammed-naeem/churn-prediction",
       liveLink: "#"
     },
@@ -62,7 +62,7 @@ export const portfolioData: PortfolioData = {
       description: "Market basket analysis system using Association Rule Learning to discover frequent itemsets and generate meaningful rules. Implements Apriori algorithm to identify customer purchasing patterns and cross-selling opportunities with visual analytics.",
       metrics: "Multi-Rule Support Analysis",
       tools: ["Python", "Pandas", "Apriori Algorithm", "MLxtend", "Matplotlib", "Seaborn"],
-      image: "/mohammed_naeem/images/Association-Rule-Mining-in-Data-Mining.jpg",
+      image: "/images/Association-Rule-Mining-in-Data-Mining.jpg",
       githubLink: "https://github.com/Mohamed6110/ASSOCIATION-RULE"
     },
     {
@@ -70,7 +70,7 @@ export const portfolioData: PortfolioData = {
       description: "Deep learning system for real-time sign language recognition using computer vision. Trained on hand gesture datasets to classify and interpret sign language gestures with high accuracy, enabling communication assistance for deaf and hard-of-hearing individuals.",
       metrics: "Real-time Gesture Detection",
       tools: ["TensorFlow", "Keras", "OpenCV", "NumPy", "Python"],
-      image: "/mohammed_naeem/images/sign language.jpg",
+      image: "/images/sign language.jpg",
       githubLink: "https://github.com/Mohamed6110/NLP/tree/551f287f73bec71f637e69a0a5284db3b7caf3d8/sign_language"
     },
     {
@@ -78,7 +78,7 @@ export const portfolioData: PortfolioData = {
       description: "Sequence-to-sequence text generation model using Gated Recurrent Units (GRU) for natural language generation. Capable of learning patterns from input sequences and generating contextually relevant text outputs with improved performance over standard RNNs.",
       metrics: "Sequence Generation Model",
       tools: ["TensorFlow", "Keras", "GRU Networks", "NLP", "Python"],
-      image: "/mohammed_naeem/images/text generation.jpg",
+      image: "/images/text generation.jpg",
       githubLink: "https://github.com/Mohamed6110/NLP/tree/551f287f73bec71f637e69a0a5284db3b7caf3d8/text_genration_GRU"
     },
     {
@@ -86,7 +86,7 @@ export const portfolioData: PortfolioData = {
       description: "NLP-based classification system designed to identify and flag hate speech content in text. Utilizes advanced text processing and machine learning techniques to detect harmful language patterns with high accuracy for content moderation applications.",
       metrics: "High-Precision Detection",
       tools: ["Python", "NLP", "Text Classification", "Scikit-learn", "NLTK"],
-      image: "/mohammed_naeem/images/heat_speach.jpg",
+      image: "/images/heat_speach.jpg",
       githubLink: "https://github.com/Mohamed6110/NLP/tree/551f287f73bec71f637e69a0a5284db3b7caf3d8/hate%20speech%20det"
     },
     {
@@ -94,7 +94,7 @@ export const portfolioData: PortfolioData = {
       description: "Machine learning classifier for identifying and filtering spam emails. Implements feature extraction from email content and applies classification algorithms to distinguish legitimate emails from spam with high precision and recall.",
       metrics: "Email Classification Model",
       tools: ["Python", "Scikit-learn", "NLP", "Text Processing", "Pandas"],
-      image: "/mohammed_naeem/images/email spam.jpg",
+      image: "/images/email spam.jpg",
       githubLink: "https://github.com/Mohamed6110/NLP/tree/551f287f73bec71f637e69a0a5284db3b7caf3d8/email_spam_detec"
     }
   ],
